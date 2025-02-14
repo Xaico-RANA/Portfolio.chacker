@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "https://bd.linkedin.com/in/mohammad-rana-b007b8325",
   devUsername: "Xaico-RANA",
   // resume: "https://drive.google.com/file/d/1EriWt4yXJT-0YgCELWDEzd7wVP7lNH8X/view?usp=sharing"
-  resume: "https://drive.google.com/file/d/1-WqVKqswKNKI2R5gMwf4X3eNjla4XYdi/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/17Iy8-HRmyp-BY53mAz_X3VO686fL7qzm/view?usp=drivesdk"
 }
